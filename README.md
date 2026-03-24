@@ -1,7 +1,7 @@
 # cron_ad
 Scripts liés à l'AD
 
-Listes:
+Liste:
 - Nettoyage du cache DHCP (fréquence: ****)
   
 - Surveillance de l'AD (fréquence: ****):
